@@ -28,5 +28,8 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 <img align="center" alt="Microsoft_SQL_Server" 
 src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div><br/>
+  
+![Snake animation](https://github.com/Paulojesus85/Paulojesus85/blob/output/github-contribution-grid-snake.svg)
+
 
 Buscando sempre novos conhecimentos!!!
