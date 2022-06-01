@@ -1,8 +1,11 @@
 ### Olá, Eu sou o Alec. Dev iniciante em C#!💻💡
 
-![Alec GitHub stats](https://github-readme-stats.vercel.app/api?username=Alec-Alexandre-Gracelli&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alec-Alexandre-Gracelli&layout=compact&theme=dark)](https://github.com/Alec-Alexandre-Gracelli/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/Alec-Alexandre-Gracelli">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alec-Alexandre-Gracelli&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec-Alexandre-Gracelli&layout=compact&theme=dark"/>
+</div>
+  
 ### Tecnologias que uso no meu dia a dia!
 
 <div style="display: inline-block"><br/>
