@@ -1,4 +1,4 @@
-### Olá, Eu sou o Alec. Dev em C#!💻💡
+### Olá, Eu sou o Alec. Dev em C# e Javascript!💻💡
 
 <div align="center">
   <a href="https://github.com/Alec-Alexandre-Gracelli">
