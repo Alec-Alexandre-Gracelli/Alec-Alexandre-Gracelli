@@ -12,10 +12,8 @@ Building scalable, reliable, and high-performance software solutions. Specializi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Alec-Alexandre-Gracelli">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alec-Alexandre-Gracelli&show_icons=true&theme=dark" alt="Alec's GitHub Stats"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alec-Alexandre-Gracelli&layout=compact&theme=dark" alt="Top Languages"/>
-  </a>
+  <img height="160em" src="https://vercel.app" alt="Alec's GitHub Stats"/>
+  <img height="160em" src="https://vercel.app" alt="Top Languages"/>
 </div>
 
 ---
@@ -23,25 +21,33 @@ Building scalable, reliable, and high-performance software solutions. Specializi
 ### 🛠️ Tech Stack & Ecosystem
 
 #### 🖥️ Backend Development & Architecture
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.js](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt=".NET" />
+  <img src="https://shields.io" alt="C#" />
+  <img src="https://shields.io" alt="Node.js" />
+</p>
 
 #### 🌐 Frontend Engineering
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Bootstrap" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+</p>
 
 #### 🗄️ Database Management
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="SQL Server" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+</p>
 
 #### ⚙️ IDEs & Tools
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<p align="left">
+  <img src="https://shields.io" alt="Visual Studio" />
+  <img src="https://shields.io" alt="VS Code" />
+</p>
 
 ---
 
